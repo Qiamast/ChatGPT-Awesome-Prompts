@@ -22,3 +22,13 @@ Here is a list of some awesome prompts that can be used with the GPT-3 model on 
 "Write a script to automate the creation of a new GitHub repository"
 
 "Create a template for an issue report in a GitHub project"
+
+"Generate a changelog for a project"
+
+"Create a template for a project's documentation"
+
+"Write a script to automate code testing and linting"
+
+"Generate a roadmap for a project"
+
+"Create a script to automate the release process for a project"
